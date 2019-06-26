@@ -7,6 +7,7 @@ This package is used for fk, ik and pathplanning for the Fontys Smart Wrist.
 Dependencies
 =====================================================================
 [The robot model](https://github.com/fontyssmartwrist/sw_v3_description)
+
 [MoveIt! commander ROS node](https://github.com/fontyssmartwrist/smart_movement)
 
 Install guide
@@ -21,6 +22,10 @@ Install guide
 
    3) Clone this project and the dependencies to your catkin's workspace src folder
    4) Run catkin_make to build 
+   
+Documentation
+=====================================================================
+Documentation how it works can be found in Documentation_on_MoveIt.pdf
 
 Authors
 =====================================================================
